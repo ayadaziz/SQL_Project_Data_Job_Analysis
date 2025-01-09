@@ -124,7 +124,8 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 
 - SQL is leading with a bold count of 7.
 - Excel follows closely with a bold count of 6.
-- Python is also highly sought after, with a bold count of 5. - - Other skills like R, Tablaeu, Flow and Oracle show varying   degrees of demand.
+- Python is also highly sought after, with a bold count of 5.
+- Other skills like R, Tablaeu, Flow and Oracle show varying   degrees of demand.
 
 ### 3. In-Demand Skills for Data Analyst 
 
@@ -185,7 +186,8 @@ ORDER BY
     avg_salary DESC
 LIMIT 25;
 ```
-Key Observations:
+
+**Key Observations:**
 
 - **High Demand for Business Intelligence & Data Analytics:**
 Power BI, Azure, and Tableau consistently rank high, indicating a strong market demand for professionals skilled in data visualization, analysis, and cloud-based solutions.
@@ -226,6 +228,7 @@ Here’s the table with the top 20 skills based on average salary:
 | Outlook         | 75,068                   |
 | Oracle          | 75,068                   |
 | Tableau         | 74,435                   |
+
 *Table of the average salary for the top 20 paying skills for data analysts
 
 ### 5. Most Optimal Skills to Learn
@@ -264,6 +267,7 @@ LIMIT 25;
 | 1 | Python | 6 | $77,186 |
 | 5 | R | 3 | $76,667 |
 | 182 | Tableau | 3 | $74,435 | 
+
 *Table of the most optimal skills for data analyst sorted by salary
 
 **Key Insights:**
