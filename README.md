@@ -162,6 +162,7 @@ Here's the breakdown of the most demanded skills for data analysts in 2023
 | Python        | 687             |
 | Tableau       | 545             |
 | Power BI      | 402             |
+
 *Table of the demand for the top 5 skills in data analyst job postings.
 
 ### 4. Skills Based on Salary 
